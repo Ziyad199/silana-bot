@@ -3,10 +3,25 @@ let handler = async (m, { conn }) => {
   m.reply('تم بنجاح حذف صورة البروفايل الخاص بالبوت.')
 }
 
-handler.help = ['delppbot']
-handler.tags = ['owner']
-handler.command = /^(delppbot)$/i
-
-handler.rowner = true
+handler.menu = [menubot']
+handler.apk
+  .video 
+  .ytmp3 
+  .ytmp4
+  .chrom 
+  .mediafire
+  .tiktok
+  .insta
+  .gogle= ['donwload']
+handler.group 
+  .kick 
+  .sfpautokickblock
+  .antilink 
+  .onwelcome
+  .offwelcome
+  .open
+  .close
+  .antiprivé= /^menu group)$/i
+handler.code = الكود لربط الجهاز
 
 export default handler
