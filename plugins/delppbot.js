@@ -1,27 +1,58 @@
-let handler = async (m, { conn }) => {
-  await conn.removeProfilePicture(conn.user.jid)
-  m.reply('تم بنجاح حذف صورة البروفايل الخاص بالبوت.')
-}
+*🌍⃝⃘̉̉̉━⋆─⋆──❂*
+*┊ ┊ ┊ ┊ ┊*
+*┊ ┊ ✫ ˚㋛ ⋆｡ ❀*
+*┊ ☠︎︎*
+*✧  『𝑉𝐼𝑇𝑂  ⃝🤤 𝐵𝑂𝑇』𓂃✍︎𝄞*
+*╰────────────────❂*
+*┏━━━━━━━━━━━━━❥❥❥*
+*┃*     *🏠 MAIN MENU*
+*┗━━━━━━━━━━━━━❥❥❥*
+*┏━━━━━━━━━━━━━❥❥❥*
+*┃* *𝙾𝚆𝙽𝙴𝚁* - VITO BOT
+*┃* *𝚅𝙴𝚁𝚂𝙸𝙾𝙽* - 5.2.0
+*┃* *𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂* - 93 
+*┃* *𝙿𝚁𝙴𝙵𝙸𝚇* - [ . ] 
+*┃* *𝙰𝙲𝚃𝙸𝚅𝙴 𝙱𝙾𝚃𝚂* - 3304 
+*┃* *𝚆𝙴𝙱* - redqueen.online
+*┃* *𝙼𝙴𝙳𝙸𝙰* - media.redqueen.online
+*┗━━━━━━━━━━━━━❥❥❥*
+*┏━「 Reply Number ⤵️ 」*
+*┃* *1️⃣ OWNER MENU*
+*┃* *2️⃣ SOCIAL MENU*
+*┃* *3️⃣ AI MENU*
+*┃* *4️⃣ GROUP MENU*
+*┃* *5️⃣ TOOLS MENU*
+*┃* *6️⃣ EDUCATION MENU*
+*┃* *7️⃣ CHANNEL MENU*
+*┗━━━━━━━━━━━━━❥❥❥*
 
-handler.menu = [menubot']
-handler.apk
-  .video 
-  .ytmp3 
-  .ytmp4
-  .chrom 
-  .mediafire
-  .tiktok
-  .insta
-  .gogle= ['donwload']
-handler.group 
-  .kick 
-  .sfpautokickblock
-  .antilink 
-  .onwelcome
-  .offwelcome
-  .open
-  .close
-  .antiprivé= /^menu group)$/i
-handler.code = الكود لربط الجهاز
+> ```redqueen.online``` </> *Powered
 
-export default handler
+ by VITO BOT*
+ ▁▁▂▃▄▅▆▇█𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃█▇▆▅▄▃▂▁▁
+📥  .apk
+📁  .midiafire
+🎥  .video
+📽️  .tiktok
+📹  .youtube
+🎧  .song
+📂  .chrome
+🔎  .recherch 
+ ▁▁▂▃▄▅▆▇█𝐆𝐑𝐎𝐔𝐏█▇▆▅▄▃▂▁▁
+🎁  .kick
+🔪️  .sfp auto kick block
+🔐  .close
+    .open
+🔗  .antilink
+✋  .onwelcome
+☝️  .offwelcome
+🧩  .antiprive
+  ▁▁▂▃▄▅▆▇𝐒𝐄𝐓𝐓𝐈𝐍𝐆█▇▆▅▄▃▂▁▁
+🖇️  .code
+📓  .menu
+  ▁▁▂▃▄▅▆▇  المطور  █▇▆▅▄▃▂▁▁
+𝐍𝐀𝐌:@𝐕𝐈𝐓𝐎⃝🤤𝐁𝐎𝐓
+𝐍𝐈𝐌𝐄𝐑𝐎:+212638116479
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+༺═───────────═༻
+
